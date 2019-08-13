@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cmd": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KSXGitHub/pnpm-issue-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KSXGitHub/pnpm-issue-2/issues"
+  },
+  "homepage": "https://github.com/KSXGitHub/pnpm-issue-2#readme"
+}
